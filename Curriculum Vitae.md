@@ -13,7 +13,9 @@ Experimentado en programación en Python y Java con 10 años de experiencia, dis
 ### **Formación Académica:**
 
 Bachillerato, 2002/2003
+
 IES Seritium
+
 Jerez, España
 
 ### **Formación Complementaria:**
@@ -26,11 +28,13 @@ Jerez, España
 ### **11/2010 – 11/2012 [Programador Junior]**
 
 Rockstar Games.
+
 Programación de pequeños paquetes del producto final. 
 
 ### **01/2013 – 12/2018 [Programador jefe]**
 
 Arise Games
+
 Fundador del estudio, jefe programador de videojuegos a nivel independiente, exitosos proyectos como Postal 2.
 
 ### **Informática:**
@@ -42,6 +46,7 @@ Fundador del estudio, jefe programador de videojuegos a nivel independiente, exi
 ### **Idiomas:**
 
 Inglés: Hablado alto, Escrito alto.
+
 Francés: Hablado básico, Escrito medio.
 
 ### **Otros Datos de Interés:**
